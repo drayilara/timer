@@ -1,12 +1,4 @@
 
-/*--------THIS TIMER ONLY WORKS IF SET ON JAN 1ST OF THE YEAR, USE DATE() FOR DYNAMIC UPDATING-----------
-ITS A FLEX OF JS MUSCLE.
-*/
-
-
-
-
-
 function getElements() {
     let seconds = document.getElementById("seconds");
     let minutes = document.getElementById("mins");
